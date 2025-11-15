@@ -1,1 +1,3 @@
-# auxiliatura-programaci-n-2
+SERGIO BRANDON FLORES CAPRILES
+CI: 13754122
+RU: 1878382
